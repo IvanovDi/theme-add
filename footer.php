@@ -12,7 +12,7 @@
 
                 <div class="widget clearfix">
 
-                    <img src="images/logo-addrian.png" alt="" class="alignleft botteromim" style="margin-top: 8px; padding-right: 18px;     border-right: 1px solid #ffffff; opacity: 1;">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo-addrian.png" alt="" class="alignleft botteromim" style="margin-top: 8px; padding-right: 18px;     border-right: 1px solid #ffffff; opacity: 1;">
 
                     <p class="foot_text" style="color: #fff; opacity: 1;">У нас крутой лагерь. Регистрируйся.</p>
 
