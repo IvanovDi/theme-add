@@ -1,20 +1,39 @@
 <?php get_header(); ?>
-    <div class="container" style="margin-top: 200px;">
+
+
+    <div class="container" style="margin-top:40px;">
         <div class="row">
-                <div class="col-md-12">
+            <div class="col-md-offset-1 col-md-9">
 
-                    <?php if (have_posts()) {?>
-                        <?php while( have_posts() ) : the_post(); ?>
+                <?php if (have_posts()) {?>
+                    <?php the_post(); ?>
+                    <div>
+                        <div class="blog_post_img col-md-4">
+                                 <?php the_post_thumbnail(); ?>
+                        </div>
+                        <!--                            выводит контент поста-->
 
-                            <?php get_template_part('template-parts/content'); ?>
-                            <?php
-                            if ( comments_open() || get_comments_number() ) {
-                            comments_template();
-                            }
-                            ?>
-                        <?php endwhile; ?>
-                    <?php } ?>
-                </div>
+                        <div class="col-md-8">
+                            <h4><?php the_title(); ?></h4>
+                            <p><?php  the_content(); ?></p>
+
+                            <div >
+                                <p> Post By : <?php the_author(); ?> </p>
+                                <p>  On : <?php the_time('j F Y'); ?> </p>
+                            </div>
+                        </div>
+
+
+                        <?php
+                            if ( comments_open() || get_comments_number() ) :
+                                comments_template();
+                            endif;
+                        ?>
+                    </div>
+                <?php } ?>
+            </div>
         </div>
     </div>
+
+
 <?php get_footer(); ?>

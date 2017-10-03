@@ -139,11 +139,6 @@
 <!--	<script type="text/javascript" src="js/functions.js"></script>-->
 <!--    <script src="formail.js"></script>-->
 <!--    <script src="jquery.lazyload.min.js?v=1.9.1"></script>-->
-<script type="text/javascript" charset="utf-8">
-$(function() {
-$("img .lazy").lazyload();
-});
-</script>
 
 </body>
 </html>

@@ -1,3 +1,7 @@
+<?php
+require_once "defines.php";
+?>
+
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
@@ -108,8 +112,8 @@
 
 
                 <div id="logo">
-                    <a href="index.html" class="standard-logo" data-dark-logo="<?php echo get_template_directory_uri(); ?>/images/logo-dark.png"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="Canvas Logo"></a>
-                    <a href="index.html" class="retina-logo" data-dark-logo="<?php echo get_template_directory_uri(); ?>/images/logo-dark.png"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="Canvas Logo"></a>
+                    <a href="<?php echo WP_SITEURL; ?>" class="standard-logo" data-dark-logo="<?php echo get_template_directory_uri(); ?>/images/logo-dark.png"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="Canvas Logo"></a>
+                    <a href="<?php echo WP_SITEURL; ?>" class="retina-logo" data-dark-logo="<?php echo get_template_directory_uri(); ?>/images/logo-dark.png"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="Canvas Logo"></a>
                 </div>
 
                 <nav id="primary-menu" class="style-4">

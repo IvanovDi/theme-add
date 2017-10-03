@@ -10,7 +10,7 @@ function addrian_setup () {
         'flex-height' => true
     ));
     add_theme_support('post-thumbnails');
-    set_post_thumbnail_size(730, 446);
+    set_post_thumbnail_size(250, 170);
     add_theme_support('html5', array(
         'search-form',
         'comment-from',
@@ -44,7 +44,12 @@ function addrian_scripts() {
 
     wp_enqueue_script( 'functions', get_template_directory_uri() . '/js/functions.js', array(), false, true );
     wp_enqueue_script( 'formail', get_template_directory_uri() . '/formail.js', array(), '1.0.0', true );
-    wp_enqueue_script( 'jquery' );
-    wp_enqueue_script( 'plugins', get_template_directory_uri() . '/js/plugins.js', array(), '1.0.0', true );
+    wp_enqueue_script( 'jquery', get_template_directory_uri() . '/formail.js', array(), '1.0.0', true );
+    wp_enqueue_script( 'plugins', get_template_directory_uri() . '/js/jquery.js', array(), '1.0.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'addrian_scripts' );
+
+
+add_filter('excerpt_more', function ($more) {
+    return '';
+});
