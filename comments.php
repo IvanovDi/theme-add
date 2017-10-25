@@ -25,7 +25,7 @@ if ( post_password_required() ) {
     <?php if ( have_comments() ) : ?>
         <h2 class="comments-title">
             <?php
-            printf( _nx( 'One thought on &ldquo;%2$s&rdquo;', '%1$s thoughts on &ldquo;%2$s&rdquo;', get_comments_number(), 'comments title', 'addrian' ),
+            printf( _nx( 'One comment on &ldquo;%2$s&rdquo;', '%1$s comments on &ldquo;%2$s&rdquo;', get_comments_number(), 'comments title', 'addrian' ),
                 number_format_i18n( get_comments_number() ), get_the_title() );
             ?>
         </h2>
@@ -63,7 +63,7 @@ if ( post_password_required() ) {
         ),
         'class_submit' => 'btn btn-default',
         'submit_field' => '<div class="section_sub_btn">%1$s %2$s</div>',
-        'comment_field' => '<div class="comment-form-comment"><label for="comment">' . esc_html_x( 'Message', 'wptuts' ) . '</label> <textarea id="comment" class="form-textarea" name="comment" rows="3" cols="103" aria-required="true"></textarea></div>'
+        'comment_field' => '<div class="comment-form-comment"><label for="comment">' . esc_html_x( 'Message', 'wptuts' ) . '</label> <textarea id="comment" style="resize: vertical;" class="form-textarea" name="comment" rows="3" cols="103" aria-required="true"></textarea></div>'
     );
     ?>
 

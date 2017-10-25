@@ -1,5 +1,17 @@
 <!-- Footer
 ============================================= -->
+
+
+<?php
+
+    $posts = $wpdb->get_results("SELECT ID, post_title FROM $wpdb->posts WHERE post_status = 'publish'
+
+    AND post_type='post' ORDER BY comment_count DESC LIMIT 0,4");
+
+    print_r($posts)
+
+?>
+
 <footer id="footer" class="dark">
 
     <div class="container">

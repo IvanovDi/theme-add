@@ -2,7 +2,8 @@
 
 
     <div class="container" style="margin-top:40px;">
-        <div class="row">
+
+        <div class="row" style="margin-bottom: 50px;">
             <div class="col-md-offset-1 col-md-9">
 
                 <?php if (have_posts()) {?>

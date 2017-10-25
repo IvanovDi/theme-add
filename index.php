@@ -36,7 +36,7 @@
 						</div>
 						<div class="regiformer">
 							<p class="percent">оставь заявку - получи скидку!</p>
-							<form>
+							<form class="js-form">
 								<input type="hidden" name="project_name" value="addrian.com.ua">
         						<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         						<input type="hidden" name="form_subject" value="Регистрация на дневной лагерь, главная страница, главная форма">
@@ -89,7 +89,7 @@
 											<h4 class="modal-title" id="myModalLabel">Оставить заявку на сезон 2018!</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Заявка на регистрацию в Сергеевку с addrian.camp">
@@ -137,7 +137,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Николаеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Заявка на регистрацию в Николаев с addrian.camp">
@@ -182,7 +182,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Киеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Заявка на регистрацию в Киев с addrian.camp">
@@ -227,7 +227,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Херсоне</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Заявка на регистрацию в Херсон с addrian.camp">
@@ -813,7 +813,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на лагерь на Черном море</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Сергеевки заезд с 18 июня - 1 июля">
@@ -847,7 +847,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на лагерь на Черном море</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form"> 
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Сергеевки заезд с 2 июля - 15 июля">
@@ -881,7 +881,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на лагерь на Черном море</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Сергеевки заезд с 16 июля - 29 июля">
@@ -920,7 +920,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Киеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Киева заезд с 31 июля - 4 августа">
@@ -954,7 +954,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Киеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Киева заезд с 7 августа - 11 августа">
@@ -988,7 +988,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Киеве </h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Киева заезд с 14 августа - 18 августа">
@@ -1022,7 +1022,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Киеве </h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Киева заезд с 21 августа - 25 августа">
@@ -1061,7 +1061,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Николаеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Николаева заезд с 31 июля - 4 августа">
@@ -1095,7 +1095,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Николаеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Николаева заезд с 7 августа - 11 августа">
@@ -1129,7 +1129,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Николаеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Николаева заезд с 14 августа - 18 августа">
@@ -1163,7 +1163,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Николаеве</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Николаева заезд с 21 августа - 25 августа">
@@ -1202,7 +1202,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Херсоне</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Херсоне заезд с 31 июля - 4 августа">
@@ -1236,7 +1236,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Херсоне</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Херсоне заезд с 7 августа - 11 августа">
@@ -1270,7 +1270,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Херсоне</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Херсоне заезд с 14 августа - 18 августа">
@@ -1304,7 +1304,7 @@
 											<h4 class="modal-title" id="myModalLabel">Регистрация на дневной лагерь в Херсоне</h4>
 										</div>
 										<div class="modal-body">
-											<form>
+											<form class="js-form">
 												<input type="hidden" name="project_name" value="addrian.com.ua">
         										<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         										<input type="hidden" name="form_subject" value="Бронирование Херсоне заезд с 21 августа - 25 августа">
@@ -1352,7 +1352,6 @@
 									<li><a href="#tab-responsive-3">Херсон</a></li>
 									<li><a href="#tab-responsive-4">Черное море</a></li>
 								</ul>
-
 								<div class="tab-container">
 
 									<div class="tab-content clearfix" id="tab-responsive-4">
@@ -1377,39 +1376,14 @@
 																	Бронирование
 																</div>
 															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	18 июня - 1 июля
-																</div>
-																<div class="col_one_third pr-price" style="margin-bottom: 0;">
-																	20000 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last " style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal4"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	2 июля - 15 июля
-																</div>
-																<div class="col_one_third pr-price" style="margin-bottom: 0;">
-																	20000 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal5"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled" style="border-bottom:0px;">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	16 июля - 29 июля
-																</div>
-																<div class="col_one_third pr-price" style="margin-bottom: 0;">
-																	20000 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal6"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
+
+
+
+                                                            <?php
+                                                                if($rows = get_camp_schedule('sergeevka')) {
+                                                                    include(get_template_directory() . '/show-schedule.php');
+                                                                }
+                                                            ?>
 														</ul>
 													</div>
 												</div>
@@ -1441,162 +1415,11 @@
 																	Бронирование
 																</div>
 															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	29 мая - 2 июня
-																</div>
-																<div class="col_one_third pr-price pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	5 июня - 9 июня
-																</div>
-																<div class="col_one_third  pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	12 июня - 16 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	19 июня - 23 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	26 июня - 30 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	3 июля - 7 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	10 июля - 14 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	17 июля - 21 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	24 июля - 28 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	31 июля - 4 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal7">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	7 августа - 11 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal8">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	14 августа - 18 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal9">Забронировать</button>
-																</div>
-															</li>
-															<li style="border-bottom:0px;">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	21 августа - 25 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal10">Забронировать</button>
-																</div>
-															</li>
+                                                            <?php
+                                                            if($rows = get_camp_schedule('kiev')) {
+                                                                include(get_template_directory() . '/show-schedule.php');
+                                                            }
+                                                            ?>
 														</ul>
 													</div>
 												</div>
@@ -1627,161 +1450,11 @@
 																	Бронирование
 																</div>
 															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	29 мая - 2 июня
-																</div>
-																<div class="col_one_third pr-price pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	5 июня - 9 июня
-																</div>
-																<div class="col_one_third  pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	12 июня - 16 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	19 июня - 23 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	26 июня - 30 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	3 июля - 7 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	10 июля - 14 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	17 июля - 21 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	24 июля - 28 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	31 июля - 4 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal11">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	7 августа - 11 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal12">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	14 августа - 18 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal13">Забронировать</button>
-																</div>
-															</li>
-															<li style="border-bottom:0px;">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	21 августа - 25 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img class="lazy" data-original="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img class="lazy" data-original="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal14">Забронировать</button>
-																</div>
+                                                            <?php
+                                                            if($rows = get_camp_schedule('mykolaiv')) {
+                                                                include(get_template_directory() . '/show-schedule.php');
+                                                            }
+                                                            ?>
 															</li>
 														</ul>
 													</div>
@@ -1814,162 +1487,11 @@
 																	Бронирование
 																</div>
 															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	29 мая - 2 июня
-																</div>
-																<div class="col_one_third pr-price pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	5 июня - 9 июня
-																</div>
-																<div class="col_one_third  pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	12 июня - 16 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	19 июня - 23 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	26 июня - 30 июня
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	3 июля - 7 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	10 июля - 14 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	17 июля - 21 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li class="disabled">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	24 июля - 28 июля
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal3"><b style="color: #6d6767;">.</b>Набор закрыт<b style="color: #6d6767;">.</b></button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	31 июля - 4 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal15">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	7 августа - 11 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal16">Забронировать</button>
-																</div>
-															</li>
-															<li>
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	14 августа - 18 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal17">Забронировать</button>
-																</div>
-															</li>
-															<li style="border-bottom:0px;">
-																<div class="col_one_third pr-data" style="margin-bottom: 0;">
-																	21 августа - 25 августа
-																</div>
-																<div class="col_one_third pr-pirce" style="margin-bottom: 0;">
-																	<img src="images/icone/4h_1.png" alt="clock" title="Лагерь на пол. дня"/> - 1440 грн.</br>
-																	<img src="images/icone/8h_1.png" alt="clock" title="Лагерь на весь день"/> - 2680 грн.
-																</div>
-																<div class="col_one_third pr-lower col_last" style="margin-bottom: 0;">
-																	<button class="btn btn-primary btn-lg pr-but" data-toggle="modal" data-target="#myModal18">Забронировать</button>
-																</div>
-															</li>
+                                                            <?php
+                                                            if($rows = get_camp_schedule('kherson')) {
+                                                                include(get_template_directory() . '/show-schedule.php');
+                                                            }
+                                                            ?>
 														</ul>
 													</div>
 
@@ -2002,7 +1524,7 @@
 
 						<div class="col_full spec_cont">
 							
-							<form>
+							<form class="js-form">
 								<input type="hidden" name="project_name" value="addrian.com.ua">
         						<input type="hidden" name="admin_email" value="sales.kiev@addrian.com">
         						<input type="hidden" name="form_subject" value="Заявка на консультацию по телефону с addrian.camp">
